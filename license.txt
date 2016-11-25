@@ -1,0 +1,17 @@
+The following materials are defined as "Developer Tools" and are subject
+to the terms and conditions of the End User License Agreement:
+
+<InstallationFolder>/mediasdk-tutorials-*/[*.txt, *.docx, *.rtf, *.pdf, *.html, *.htm]
+This includes any documentation files under the "<InstallationFolder>/mediasdk-tutorials-*" folder
+
+<InstallationFolder>/mediasdk-tutorials-*/[Makefile, *.sln, *.vcxproj]
+This includes any build system files under the "<InstallationFolder>/mediasdk-tutorials-*" folder
+
+<InstallationFolder>/mediasdk-tutorials-*/[*.bat, *.sh, *.pl]
+This includes any shell script files under the "<InstallationFolder>/mediasdk-tutorials-*" folder
+
+The following materials are defined as "Sample Source" and are subject
+to the terms and conditions of the End User License Agreement:
+
+<InstallationFolder>/mediasdk-tutorials-*/* (excluding materials defined as "Developer tools")
+This excludes any decumentation, build system and shell script files
